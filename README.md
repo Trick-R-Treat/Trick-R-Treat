@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Trick-R-Treat
+- 👀 I’m interested in game programming.
+- 🌱 I’m currently learning programming.
+- 📫 How to reach me: https://www.youtube.com/@trickortreatteam

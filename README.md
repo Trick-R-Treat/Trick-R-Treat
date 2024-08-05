@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Trick-R-Treat
-- 👀 I’m interested in game programming.
-- 🌱 I’m currently learning programming.
-- 📫 How to reach me: https://www.youtube.com/@trickortreatteam
+- 👀 I’m interested in video games.
+- 🌱 I’m currently studying programming.
+- 📫 How to reach me: Send smoke signals.

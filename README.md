@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trick-R-Treat
+- 👋 Hi, I’m Trick-R-Treat
 - 👀 I’m interested in video games and their modding.
 - 🌱 I’m currently studying game programming.
 - 📫 How to reach me: Send smoke signals or send a message on Discord: trickortreatteam

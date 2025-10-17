@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trick-R-Treat
+- ⚡ My Discord name is trickRtreat / trickortreatteam
 - 👀 I’m interested in video games and game modding.
 - 🌱 I’m currently studying game programming.
-- ⚡ My Discord name is trickRtreat / trickortreatteam
 - 🎃 You can find our game videos here: https://www.youtube.com/@trickortreatteam
 - 😄 You can find our published games here: https://trickrtreat.itch.io/

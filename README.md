@@ -3,4 +3,4 @@
 - 🌱 I’m currently studying game programming.
 - ⚡ My Discord name is trickRtreat / trickortreatteam
 - 🎃 You can find our game videos here: https://www.youtube.com/@trickortreatteam
-- 😄 Websites related to my studies can be found here: https://trickortreatteam.blogspot.com/
+- 😄 You can find our published games here: https://trickrtreat.itch.io/

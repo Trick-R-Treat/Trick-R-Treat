@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Trick-R-Treat
-- 👻 My Discord name is trickRtreat / trickortreatteam
 - 👀 I'm studying game programming and making small games
-- 🤡 You can find our published games here: https://trickrtreat.itch.io/
-- 🎃 You can find our game videos here: https://www.youtube.com/@trickortreatteam
+- 👻 You can message me on Discord: trickortreatteam
+- 🤡 You can find our published games on Itch.io: https://trickrtreat.itch.io/
+- 🎃 You can find our game videos on YouTube: https://www.youtube.com/@trickortreatteam

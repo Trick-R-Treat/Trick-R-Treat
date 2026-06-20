@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Trick-R-Treat
 - 👀 I'm studying game programming and making small games with Unity
 - 👻 You can message me on Discord: trickortreatteam
-- 🎮 You can find our published games here: https://trickrtreat.itch.io/
-- 🤡 You can find our game videos here: https://www.youtube.com/@trickortreatteam
+- 🎮 Our published games can be found here: https://trickrtreat.itch.io/
+- 🤡 Our gameplay videos are here: https://www.youtube.com/@trickortreatteam
 -
 - 👋 Hei, olen Trick-R-Treat
 - 👀 Opiskelen peliohjelmointia ja teen pieniä pelejä Unitylla
 - 👻 Voit lähettää minulle viestiä Discordissa: trickortreatteam
-- 🎮 Löydät julkaistut pelimme täältä: https://trickrtreat.itch.io/
-- 🤡 Löydät pelivideomme täältä: https://www.youtube.com/@trickortreatteam
+- 🎮 Julkaistut pelimme löytyvät täältä: https://trickrtreat.itch.io/
+- 🤡 Pelivideomme ovat täällä: https://www.youtube.com/@trickortreatteam
 - 🎃 Opintoihini liittyvä sisältö löytyy täältä: https://trickortreatteam.blogspot.com/
